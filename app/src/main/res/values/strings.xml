@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MultiPaneView</string>
+    <string name="network">Network</string>
+    <string name="storage">Storage</string>
+    <string name="display">Display</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="database">Database</string>
+    <string name="backend">Backend</string>
+    <string name="frontend">Frontend</string>
+    <string name="frontenddescription">Frontend is used for displaying and making the backend flows visible and easy to use for the enduser.</string>
+    <string name="backenddescription">Backend is related to the data provider to the frontend for the real time use by the user.</string>
+    <string name="databasedescription">Database is used to store the data.</string>
+</resources>
